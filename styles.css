@@ -1,0 +1,40 @@
+.topsection{
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+    color:blue;
+}
+
+.puppy {
+    color:red;
+    text-align:center;
+}
+
+.sitting {
+    text-align: center;
+    color:blue;
+    font-size: small;
+}
+
+.pet-picture{
+    text-align:center;
+    background-color:powderblue;
+}
+
+p{
+    line-height: 1.6;
+    font-family:sans-serif;
+    font-size:large;
+    
+}
+
+h1, h3 {
+    text-decoration:underline;
+    color:purple;
+}
+
+.paragraph{
+    background-color: whitesmoke;
+}
